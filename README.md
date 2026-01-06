@@ -6,3 +6,7 @@
 - Learned how to measure execution time in C.
 - Observed that small code changes can affect performance.
 - Curious how this works on GPUs or multiple cores.
+### Day 7 Notes
+- Arrays decay to pointers in C.
+- Pointer arithmetic depends on type size.
+- File I/O is explicit and unsafe by default.
